@@ -1,3 +1,3 @@
 # dogofarms
 
-Live site link: ndofarms.co.ke
+Live site link: ndogofarms.co.ke
